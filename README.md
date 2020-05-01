@@ -1,2 +1,2 @@
 # test
-learning how to use gitd
+learning how to use git
